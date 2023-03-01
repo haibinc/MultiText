@@ -1,0 +1,3 @@
+/Users/haibin/CLionProjects/MultiText/cmake-build-debug/CMakeFiles/MultiText.dir
+/Users/haibin/CLionProjects/MultiText/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/haibin/CLionProjects/MultiText/cmake-build-debug/CMakeFiles/rebuild_cache.dir
